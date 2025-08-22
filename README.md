@@ -1,7 +1,7 @@
 # Crop-yield-Prediction-DL--Approach
 Proposes a multi-source deep learning framework that merges climate records, soil properties, and satellite imagery to expand crop yield prediction
 
-#Multi-Source Deep Learning for Crop Yield Prediction: Advancing Precision Agriculture with IoT and Data Fusion
+# Multi-Source Deep Learning for Crop Yield Prediction: Advancing Precision Agriculture with IoT and Data Fusion
 
 *Abstract:*
 Precision agriculture, driven by the integration of Artificial Intelligence (AI), the Internet of Things (IoT), and Data Analytics, is revolutionizing traditional farming by providing more convenient and stable systems. These technologies enhance agricultural practices, reduce resource consumption, and optimize food safety. Within this framework, crop yield prediction plays a crucial role. While many deep learning models perform well on single-source data such as climate records or soil parameters, challenges remain when analysing and predicting yields based on the non-linear interactions among multiple data sources such as climate variability, soil dynamics, and crop growth patterns.
